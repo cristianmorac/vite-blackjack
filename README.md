@@ -1,8 +1,8 @@
 ## vite-blackjack
 1. Intalar los paquetes npm
-npm install
+// npm install
 2. correr el proyecto en un servidor
-npm run dev
+// npm run dev
 ### Produccion
 1. Crear carpeta de producción
-npm run build
+// npm run build
