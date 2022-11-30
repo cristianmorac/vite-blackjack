@@ -1,8 +1,8 @@
-### vite-blackjack
-### Intalar los paquetes npm
+## vite-blackjack
+1. Intalar los paquetes npm
 npm install
-### correr el proyecto en un servidor
+2. correr el proyecto en un servidor
 npm run dev
-Produccion
-### Crear carpeta de producción
+### Produccion
+1. Crear carpeta de producción
 npm run build
